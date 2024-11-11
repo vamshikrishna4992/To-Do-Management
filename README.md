@@ -21,7 +21,7 @@ A simple ToDo Management App built with React for adding, editing, and removing 
 cd todo-management-app
 
 ## Install dependencies:
-npm install
+npm create vite@latest
 
 ## Start the development server:
 npm start
